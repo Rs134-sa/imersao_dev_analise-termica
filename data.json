@@ -1,0 +1,38 @@
+[
+    {
+        "nome": "Análise Termogravimétrica (TGA)",
+        "descricao": "A análise termogravimétrica pode ser definida como a técnica termoanalítica que acompanha a variação da massa da amostra (perda e/ou ganho de massa), em função da programação de temperatura.",
+        "ano": 1950,
+        "link":"https://www2.ufjf.br/fisica/wp-content/uploads/sites/427/2010/08/Grupo-7-An%C3%A1lises-T%C3%A9rmicas-e-Aplica%C3%A7%C3%B5es.pdf"
+    },
+    {
+        "nome": "Calorimetria Diferencial de Varredura (DSC)",
+        "descricao": "A Calorimetria Exploratória Diferencial (DSC) pode ser definida como técnica na qual mede-se a diferença de energia (entalpias) fornecida à substância e a um material referência, em função da temperatura enquanto a substância e o material de referência são submetidos a uma programação controlada de temperatura.",
+        "ano": 1963,
+        "link":"https://www2.ufjf.br/fisica/wp-content/uploads/sites/427/2010/08/Grupo-7-An%C3%A1lises-T%C3%A9rmicas-e-Aplica%C3%A7%C3%B5es.pdf"
+    },
+    {
+        "nome": "Análise Térmica Diferencial (DTA)",
+        "descricao": "A Análise Térmica Diferencial pode ser definida como a técnica que determina continuamente a diferença entre as temperaturas da amostra e de um material de referência termicamente inerte, à medida que ambos vão sendo aquecidos ou resfriados em um forno.",
+        "ano": 1887,
+        "link":"https://www2.ufjf.br/fisica/wp-content/uploads/sites/427/2010/08/Grupo-7-An%C3%A1lises-T%C3%A9rmicas-e-Aplica%C3%A7%C3%B5es.pdf"
+    },
+    {
+        "nome": "Análise Mecânica Dinâmica (DMA)",
+        "descricao": "Mede as propriedades mecânicas e viscoelásticas de materiais em função da temperatura, tempo e frequência. É útil para determinar transições como a transição vítrea e entender o comportamento de polímeros.",
+        "ano": 1950,
+        "link": "https://www.materials.sandvik/pt-br/propriedades-dos-materiais/propriedades-mec%C3%A2nicas/an%C3%A1lise-mec%C3%A2nica-din%C3%A2mica-dma/"
+    },
+    {
+        "nome": "Análise Termomecânica (TMA)",
+        "descricao": "Mede as alterações nas dimensões de um material (expansão ou contração) em função da temperatura, sob uma força constante. É usada para determinar o coeficiente de expansão térmica e pontos de amolecimento.",
+        "ano": 1965,
+        "link": "https://www.mt.com/br/pt/home/applications/laboratory_weighing/thermal_analysis/tma.html"
+    },
+    {
+        "nome": "Análise de Gás Desprendido (EGA)",
+        "descricao": "Técnica que detecta e analisa os gases liberados por uma amostra durante o aquecimento. Frequentemente acoplada a outras técnicas (como TGA-MS ou TGA-FTIR) para identificar os produtos da decomposição.",
+        "ano": 1960,
+        "link": "https://www.tainstruments.com/evolved-gas-analysis-ega/"
+    }
+]

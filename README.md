@@ -1,16 +1,14 @@
-# 🔥 Análise Térmica — Visualizador Interativo de Técnicas Termoanalíticas
-
 <p align="center">
 <img 
-    src="inicial.png"
-    width="300"
+    src="inicial.jpg"
+    width="700"
 />
 </p>
 
+# 🔥 Análise Térmica — Visualizador Interativo de Técnicas Termoanalíticas
+
 Este é um projeto de uma página web simples e interativa, criada para funcionar como uma base de consulta rápida sobre diferentes  **métodos de análise térmica**, como TGA, DSC, DTA, DMA, TMA e EGA. 
-Os dados são carregados dinamicamente a partir do arquivo `data.json`, e os resultados são exibidos em forma de cartões.  
-A aplicação permite que o usuário pesquise por uma técnica específica e veja informações detalhadas sobre ela.
-O objetivo é fornecer um recurso rápido e visual para estudantes e profissionais de química, engenharia e materiais.
+Os dados são carregados dinamicamente a partir do arquivo `data.json`, e os resultados são exibidos em forma de cartões. A aplicação permite que o usuário pesquise por uma técnica específica e veja informações  detalhadas sobre ela. O objetivo é fornecer um recurso rápido e visual para estudantes e profissionais de química, engenharia e materiais.
 
 ---
 
